@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UniLinker.props" />
+</Project>
